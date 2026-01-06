@@ -1,1 +1,1 @@
-# -n-ng-nh-KTMT
+Dự án thùng phân loại rác tái chế với chai nhựa và lon kim loại.
